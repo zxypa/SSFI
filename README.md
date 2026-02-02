@@ -1,9 +1,3 @@
-明白 👍
-下面这个就是**最终版 README.md**，**无需任何修改，直接整体复制粘贴即可用**（已去掉解释性文字，纯 Markdown 内容）。
-
----
-
-```markdown
 # SFIS: Structured Feature Interaction for Lightweight Image Super-Resolution
 
 This repository contains the official PyTorch implementation of **SFIS**, a lightweight and structured feature interaction framework for single image super-resolution.  
@@ -87,20 +81,7 @@ Pre-trained models will be released.
 
 ---
 
-## Citation
 
-If you find this work useful, please cite:
-
-```bibtex
-@article{SFIS,
-  title={Structured Feature Interaction for Lightweight Image Super-Resolution},
-  author={},
-  journal={},
-  year={2026}
-}
-```
-
----
 
 ## Acknowledgement
 
