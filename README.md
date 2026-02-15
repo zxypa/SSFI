@@ -72,8 +72,3 @@ The testing results (reconstructed images and PSNR / SSIM values) will be saved 
 
 
 ```
-
----
-
-如果你愿意，我可以下一步直接帮你补一个**“Method Overview + Network Architecture 图说明版 README”**，或者帮你把 **SFIS 和论文摘要完全对齐**，审稿人会非常舒服。
-```
