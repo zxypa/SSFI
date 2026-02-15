@@ -1,4 +1,4 @@
-# Structured and Stability-Aware Feature Interaction for Image Super-Resolution
+# Stability-Oriented Low-Rank Dictionary Interaction for Image Super-Resolution
 
 ## Environment
 
